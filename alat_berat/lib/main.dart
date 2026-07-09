@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'PT JAWA SENTOSA',
       theme: ThemeData(primarySwatch: Colors.orange, useMaterial3: false),
-      debugShowCheckedModeBanner: false, // ← Tambahkan baris ini!
+      debugShowCheckedModeBanner: false, // ← Tambahkan baris ini lagi
       home: const HomePage(),
     );
   }
