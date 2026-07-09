@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// ==================== HALAMAN UTAMA ====================
+// ==================== HALAMAN UTAMA =====================
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
   @override
